@@ -20,14 +20,14 @@ L’obiettivo è fidelizzare il fruitore (sardo, italiano o straniero) e destagi
 * [Google Maps SDK](https://developers.google.com/maps/documentation/)
 * [Graph QL](https://graphql.org/)
 
-# Implementato
+## Implementato
 
 Allo stato attuale l'utente può: 
 * consultare tramite l'app tutti ciascun itinerario  presente nel SIN2 e visualizzare la sua posizione nella mappa;
 * effettuare una ricerca filtrando per categoria e fulltext tra gli itinerari del SIN2
 * acquisire punti scansionando il QR code di ciascun itinerario (contiene id/key-SHA256).
 
-# Da implementare
+## Da implementare
 
 * gestione multi-utente e social authentication;
 * classifica utenti (basata sui punti acquisiti)
