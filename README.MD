@@ -1,5 +1,7 @@
 # Handy - a portata di mano
 
+![alt text](https://raw.githubusercontent.com/marinimau/Handy/master/icon%20(2).png)
+
 App cross platform (Android iOS) realizzata con React Native durante l'hackathon "TrHackYourTour" organizzato da OpenCampus e CRS4 dal 25 al 29 Maggio 2020.
 
 L'idea nasce da un'analisi delle problematiche legate al turismo e al Covid-19. Il progetto vuole promuovere il turismo sostenibile (attivo, culturale ed enogastronomico) e la mobilità dolce. La proposta consiste nella creazione di un’App che scansioni dei QR Code creati appositamente e posizionati in corrispondenza degli itinerari presenti come OST nel progetto SIN2 del CRS4.
