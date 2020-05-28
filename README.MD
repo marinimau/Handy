@@ -56,7 +56,7 @@ Esempio: Silius municipio (id = 2700) è associato al QR-code:
 ### iOS light mode
 
 Menu:
-![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.34.32.png){:height="896px" width="414px"}
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.34.32.png)
 
 Ricerca itinerario:
 ![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.35.00.png)
@@ -67,6 +67,28 @@ Pagina itinerario (bottomsheet chiusa):
 
 Pagina itinerario (bottomsheet aperta):
 ![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.35.13.png)
+
+
+### Android light mode
+
+Menu:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/lightMode/Screenshot_20200528_201946_com.marinimau.trhackyourtour.jpg)
+
+Scanner:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/lightMode/Screenshot_20200528_201941_com.marinimau.trhackyourtour.jpg)
+
+Evaluate:
+![2](https://github.com/marinimau/Handy/blob/master/screenshoot/android/lightMode/Screenshot_20200528_201930_com.marinimau.trhackyourtour.jpg)
+
+Ricerca itinerario:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/lightMode/Screenshot_20200528_202015_com.marinimau.trhackyourtour.jpg)
+
+
+Pagina itinerario (bottomsheet chiusa):
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/lightMode/Screenshot_20200528_202156_host.exp.exponent.jpg)
+
+Pagina itinerario (bottomsheet aperta):
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/lightMode/Screenshot_20200528_202203_host.exp.exponent.jpg)
 
 
 
