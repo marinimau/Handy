@@ -36,7 +36,7 @@ Allo stato attuale l'utente può:
 
 I QR code contengono una coppia (id-itinerario-sin2,<digest key-SHA256(nome-itinerario)>).
   
-Esempio: Siliu municipio (id = 2700) è associato al QR-code:
+Esempio: Silius municipio (id = 2700) è associato al QR-code:
 ```2700/28d25babef83434c84af5f5ec4d343546df657d9f16d728b97e25934ac683d95```
 
 ## Video
