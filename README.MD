@@ -34,8 +34,12 @@ Allo stato attuale l'utente può:
 
 ## Video
 
+### Android
+
 * [Android light mode](https://youtu.be/k-oXiVdOq1k)
 * [Android dark mode](https://youtu.be/1MfEBz2o-u0)
+
+### iOS
 
 ## ScreenShot
 
