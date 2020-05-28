@@ -106,5 +106,29 @@ Pagina itinerario (bottomsheet aperta):
 ![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/lightMode/Screenshot_20200528_202203_host.exp.exponent.jpg)
 
 
+### Android dark mode
+
+Menu:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/darkMode/Screenshot_20200528_205722_host.exp.exponent.jpg)
+
+Scanner:
+![1]()
+
+Evaluate:
+![2](https://github.com/marinimau/Handy/blob/master/screenshoot/android/darkMode/Screenshot_20200528_205716_host.exp.exponent.jpg)
+
+Ricerca itinerario:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/darkMode/Screenshot_20200528_205741_host.exp.exponent.jpg)
+
+
+Pagina itinerario (bottomsheet chiusa):
+![1](hhttps://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/darkMode/Screenshot_20200528_205752_host.exp.exponent.jpg)
+
+Pagina itinerario (bottomsheet aperta):
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/darkMode/Screenshot_20200528_205756_host.exp.exponent.jpg)
+
+
+
+
 
 
