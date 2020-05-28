@@ -68,6 +68,21 @@ Pagina itinerario (bottomsheet chiusa):
 Pagina itinerario (bottomsheet aperta):
 ![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.35.13.png)
 
+### iOS dark mode
+
+Menu:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/dark_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2020.46.19.png)
+
+Ricerca itinerario:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/dark_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2020.47.29.png)
+
+
+Pagina itinerario (bottomsheet chiusa):
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/dark_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2020.46.47.png)
+
+Pagina itinerario (bottomsheet aperta):
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/dark_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2020.46.49.png)
+
 
 ### Android light mode
 
