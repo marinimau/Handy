@@ -122,7 +122,7 @@ Ricerca itinerario:
 
 
 Pagina itinerario (bottomsheet chiusa):
-![1](hhttps://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/darkMode/Screenshot_20200528_205752_host.exp.exponent.jpg)
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/darkMode/Screenshot_20200528_205752_host.exp.exponent.jpg)
 
 Pagina itinerario (bottomsheet aperta):
 ![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/android/darkMode/Screenshot_20200528_205756_host.exp.exponent.jpg)
