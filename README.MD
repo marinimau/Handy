@@ -32,6 +32,26 @@ Allo stato attuale l'utente può:
 * gestione multi-utente e social authentication;
 * classifica utenti (basata sui punti acquisiti)
 
+## Video
+
+
 ## ScreenShot
+
+### iOS light mode
+
+Menu:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.34.32.png)
+
+Ricerca itinerario:
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.35.00.png)
+
+
+Pagina itinerario (bottomsheet chiusa):
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.35.08.png)
+
+Pagina itinerario (bottomsheet aperta):
+![1](https://raw.githubusercontent.com/marinimau/Handy/master/screenshoot/ios/light_mode/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-05-28%20at%2019.35.13.png)
+
+
 
 
