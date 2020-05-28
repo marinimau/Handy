@@ -51,6 +51,9 @@ Esempio: Silius municipio (id = 2700) è associato al QR-code:
 
 ### iOS
 
+* [iOS light mode](https://youtu.be/shrm2kgtFRc)
+* [iOS dark mode](https://youtu.be/4UqtJ_1EuAY)
+
 ## ScreenShot
 
 ### iOS light mode
