@@ -10,8 +10,6 @@ La scansione dei QR Code permetterà al fruitore di guadagnare e accumulare punt
 
 Al momento della scansione inoltre l’utente rilascerà una valutazione sull’itinerario che fornirà un feedback sia agli utenti successivi che agli operatori locali.
 
-L’obiettivo è fidelizzare il fruitore (sardo, italiano o straniero) e destagionalizzare l’offerta turistica, proponendo una soluzione alternativa al turismo balneare e di massa.
-
 
 ## Tencologie utilizzate
 
