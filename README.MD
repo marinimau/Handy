@@ -51,7 +51,7 @@ Esempio: Silius municipio (id = 2700) è associato al QR-code:
 
 ### iOS - iPhone 8
 
-* [iOS light mode](https://youtu.be/shrm2kgtFRc) - scansione QR non valido (verifica del digest fallita), esempio di ricerca e visualizzazione itinerari.
+* [iOS light mode](https://youtu.be/shrm2kgtFRc) - scansione QR "falsificato" (verifica del digest fallita), esempio di ricerca e visualizzazione itinerari.
 * [iOS dark mode](https://youtu.be/4UqtJ_1EuAY) - esempio di ricerca e visualizzazione itinerari.
 
 ## ScreenShot
