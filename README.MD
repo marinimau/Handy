@@ -34,7 +34,7 @@ Allo stato attuale l'utente può:
 
 ## QR code
 
-I QR code contengono una coppia (id-itinerario-sin2,<digest key-SHA256(nome-itinerario)>).
+I QR code contengono una stringa di testo grezzo così formata  [id_itinerario_sin2]/[SHA256 digest calcolato sul nome dell'itinerario utilizzando una chiave segreta].
   
 Esempio: Silius municipio (id = 2700) è associato al QR-code:
 
