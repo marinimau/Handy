@@ -44,15 +44,15 @@ Esempio: Silius municipio (id = 2700) è associato al QR-code:
 
 ## Video
 
-### Android
+### Android - Huawei P20
 
-* [Android light mode](https://youtu.be/k-oXiVdOq1k)
-* [Android dark mode](https://youtu.be/1MfEBz2o-u0)
+* [Android light mode](https://youtu.be/k-oXiVdOq1k) - scansione QR valido (SILIUS MUNICIPIO), esempio di ricerca e visualizzazione itinerari.
+* [Android dark mode](https://youtu.be/1MfEBz2o-u0) - scansione QR valido (VILLASANTO), esempio di ricerca e visualizzazione itinerari.
 
-### iOS
+### iOS - iPhone 8
 
-* [iOS light mode](https://youtu.be/shrm2kgtFRc)
-* [iOS dark mode](https://youtu.be/4UqtJ_1EuAY)
+* [iOS light mode](https://youtu.be/shrm2kgtFRc) - scansione QR non valido (verifica del digest fallita), esempio di ricerca e visualizzazione itinerari.
+* [iOS dark mode](https://youtu.be/4UqtJ_1EuAY) - esempio di ricerca e visualizzazione itinerari.
 
 ## ScreenShot
 
