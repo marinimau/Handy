@@ -1,5 +1,5 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyCjZ8MbQyA-UmRdB4T86fuHUg5ZJ_i1yjQ",
+    apiKey: "THE_API_KEY",
     authDomain: "trackyourtour.firebaseapp.com",
     databaseURL: "https://trackyourtour.firebaseio.com",
     projectId: "trackyourtour",
