@@ -2,16 +2,23 @@
 
 ![alt text](https://raw.githubusercontent.com/marinimau/Handy/master/icon%20(2).png)
 
-App cross platform (Android iOS) realizzata con React Native durante l'hackathon "TrHackYourTour" organizzato da OpenCampus e CRS4 dal 25 al 29 Maggio 2020 (**l'app è stata pensata e realizzata in 4 giorni di lavoro effettivi** l'implementazione non è da considerarsi definitiva).
+#### IT
 
-L'idea nasce da un'analisi delle problematiche legate al turismo e al Covid-19. L'app scansiona dei QR Code creati appositamente e posizionati in corrispondenza degli itinerari presenti come OST nel progetto SIN2 del CRS4.
+App cross platform (Android; iOS) realizzata con React Native durante l'hackathon "TrHackYourTour" organizzato da OpenCampus e CRS4 dal 25 al 29 Maggio 2020. (**L'app è stata pensata e realizzata in 4 giorni di lavoro** l'implementazione non è da considerarsi definitiva).
+
+L'idea nasce da un'analisi delle problematiche legate al turismo post Covid-19. L'app scansiona dei QR Code creati appositamente e posizionati in corrispondenza degli itinerari o strutture aderenti al progetto. Gli itinerari presenti al momento sono gli OST del progetto SIN2 del CRS4.
 
 La scansione dei QR Code permetterà al fruitore di guadagnare e accumulare punti successivamente utilizzabili presso i servizi e le strutture aderenti al progetto (B&B, ristoranti, tour operator, agriturismi, rent a bike, musei, botteghe artigiane, siti archeologici etc.).
 
 Al momento della scansione inoltre l’utente rilascerà una valutazione sull’itinerario che fornirà un feedback sia agli utenti successivi che agli operatori locali.
 
+#### EN
 
-## Tencologie utilizzate
+Cross platform application (Android; iOS) developed with React Native during the "TrackYourTour" hackathon organized by OpenCampus and CRS4 (from 25th to 29 May 2020). **The application was designed and developed  in 4 days of work** the implementation is not definitive.
+
+The idea borns from an analysis of the tourism problems in the post-Covid era. The application scans specific QR codes located at itineraries or structures affiliated to the project. At the moments the only present itineraries are those store as OST in the SIN2 project of CRS4. 
+
+## Tencologie utilizzate - Technologies adopted
 
 * [React Native](https://reactnative.dev/)
 * [Hermes](https://hermesengine.dev/)
@@ -20,23 +27,43 @@ Al momento della scansione inoltre l’utente rilascerà una valutazione sull’
 * [Google Maps SDK](https://developers.google.com/maps/documentation/)
 * [Graph QL](https://graphql.org/)
 
-## Implementato
+## Implementato - Developed
 
+#### IT
 Allo stato attuale l'utente può: 
-* consultare tramite l'app tutti ciascun itinerario  presente nel SIN2 e visualizzare la sua posizione nella mappa;
-* effettuare una ricerca filtrando per categoria e fulltext tra gli itinerari del SIN2
-* acquisire punti scansionando il QR code di ciascun itinerario (contiene id/key-SHA256).
+* consultare tramite i dettagli ciascun itinerario  presente nel SIN2 e visualizzare la sua posizione nella mappa;
+* effettuare una ricerca filtrando per categoria e fulltext tra gli itinerari del SIN2;
+* acquisire punti scansionando il QR code di ciascun itinerario.
 
-## Da implementare
+#### EN
+At the moment the user can: 
+* check the details of each itinerary of the SIN2 and see its position in the map;
+* make a search using category or fulltext filters;
+* earn points scanning QR codes.
+
+## Da implementare - Not developed yet
+
+#### IT
 
 * gestione multi-utente e social authentication;
-* classifica utenti (basata sui punti acquisiti)
+* classifica utenti (basata sui punti acquisiti),
+
+
+#### EN
+
+* multi-user management and social authentication;
+* user ranking based on points acquired,
 
 ## QR code
 
+#### IT
 I QR code contengono una stringa di testo grezzo così formata  [id_itinerario_sin2]/[SHA256 digest calcolato sul nome dell'itinerario utilizzando una chiave segreta].
+
+#### EN
+
+The QR code contains a string of raw text with this format:  [id_of_the_itineray]/[secret key SHA256 digest calculated on the name of the itinerary].
   
-Esempio: Silius municipio (id = 2700) è associato al QR-code:
+Es: Silius municipio (id = 2700) --> QR-code:
 
 ```2700/28d25babef83434c84af5f5ec4d343546df657d9f16d728b97e25934ac683d95```
 
