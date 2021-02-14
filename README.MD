@@ -1,4 +1,4 @@
-# Handy - a portata di mano
+# Handy - a portata di mano (Hackathon project - 4 days of work)
 
 ![alt text](https://raw.githubusercontent.com/marinimau/Handy/master/icon%20(2).png)
 
